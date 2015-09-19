@@ -2,3 +2,4 @@ SingleThreadServer_TCP.cbp
 bin/
 obj/
 singlethread_server
+SingleThreadServer_TCP.layout
